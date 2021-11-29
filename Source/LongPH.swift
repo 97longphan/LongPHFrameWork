@@ -5,4 +5,8 @@ public class LongPh {
     public func getName() {
         print("get name function")
     }
+    
+    public func getNumber() {
+        print("get number")
+    }
 }
