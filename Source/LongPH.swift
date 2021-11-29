@@ -9,4 +9,8 @@ public class LongPh {
     public func getNumber() {
         print("get number")
     }
+    
+    public func getAge() {
+        print("get age")
+    }
 }
